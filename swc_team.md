@@ -119,5 +119,6 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *email* : crawat@iitg.ac.in
 
 * [Shashwat Kartikey](https://github.com/ShashwatKartikey)
-   -*Frameworks* : HTML, CSS, JavaScript(Basics) ,Django(Learning)
-   -*Languages : Python, Java(Learing) 
+   - *Frameworks* : HTML, CSS, JavaScript(Basics) ,Django(Learning)
+   - *Languages : Python, Java(Learing) 
+   - *email* : kshashwat@iitg.ac.in
